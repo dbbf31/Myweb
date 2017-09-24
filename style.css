@@ -8,6 +8,7 @@
   position: fixed;
   top: 0;
   left: 0;
+  right: 0;
   z-index: 100;
 }
 
@@ -73,12 +74,12 @@ li:hover a {
   width: 200px;
 }
 
-h1 {
+h2 {
   margin-bottom: 0;
   text-align: center;
 }
 
-# about h1 {
+#about h1 {
   margin-bottom: 0;
   text-align: left;
 }
